@@ -1,0 +1,6 @@
+﻿  Tutorial01.cpp
+D:\политех\компграф\Direct3D Tutorial Win32\C++\Tutorial01\Tutorial01.cpp(321,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\политех\компграф\Direct3D Tutorial Win32\C++\Tutorial01\Tutorial01.cpp(322,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\политех\компграф\Direct3D Tutorial Win32\C++\Tutorial01\Tutorial01.cpp(323,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\политех\компграф\Direct3D Tutorial Win32\C++\Tutorial01\Tutorial01.cpp(329,1): warning C4172: возвращение адреса локальной или временной переменной : rgb
+  Tutorial01_2012.vcxproj -> D:\политех\компграф\Direct3D Tutorial Win32\C++\x64\Debug\Tutorial01.exe

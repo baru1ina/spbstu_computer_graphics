@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\политех\компграф\Direct3D Tutorial Win32\C++\x64\Debug\Tutorial02.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\политех\компграф\Direct3D Tutorial Win32\C++\x64\Debug\Tutorial02_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\политех\компграф\Direct3D Tutorial Win32\C++\x64\Debug\Tutorial02_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
